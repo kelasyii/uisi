@@ -16,7 +16,8 @@ Masing-masing bisa kita pilih sesuai dengan kebutuhan dan tingkat kesulitan yang
 ## Install dari archive.
 Cara ini adalah yang paling mudah. Kita tinggal download `source`nya lalu kita ekstrak, maka kita sudah siap menggunakan Yii2.
 1. Download source Yii dari [sini](https://github.com/yiisoft/yii2/releases/download/2.0.11/yii-basic-app-2.0.11.tgz).
-2. Extract file tersebut ke folder document root dari apache (folder htdocs). Beri nama folder hasil extract dengan misalnya `projectyii`.
+2. Extract file tersebut (apabila di windows gunakan aplikasi 7zip dengan menggunakan run administrator)
+3. Copy file hasil extract ke folder document root dari apache (folder htdocs). Beri nama folder hasil extract dengan misalnya `projectyii`.
 3. Kemudian modifikasi file `projectyii/config/web.php` dengan cara mengisi nilai dari `cookieValidationKey`.
 ```php
         'request' => [
