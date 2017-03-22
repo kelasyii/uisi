@@ -3,7 +3,7 @@
   2. 
   3. Aplikasi List Wisata
   4. Aplikasi Bengkel
-  5. Sistem informasi akademik
+  5. Sistem Informasi Akademik
   6. Aplikasi Kos
 
 # Fitur Tiap Project
