@@ -4,5 +4,5 @@
 
 # Materi
 * Membuat akun trello.
-* Membuat group.
+* Membuat tim.
 * Membuat rencana project.
