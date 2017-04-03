@@ -5,9 +5,13 @@
       * Daftar harga laundry tiap tiap tempat
       * Daftar promo laundry tiap tiap tempat
       * Proses transaksi laundry
-  2. 
+  2. Aplikasi Hotel
+      * Daftar hotel
+      * Daftar Kamar
+      * Daftar Tamu Hotel      
   3. Aplikasi List Wisata
       * Daftar List wisata di indonesia
+      * Daftar comment tiap tiap lokasi wisata
       * Upload Foto
   4. Aplikasi Bengkel
       * Daftar List Bengkel
